@@ -1,3 +1,5 @@
+package B029;
+
 import java.util.*;
 import java.util.Scanner;
 
